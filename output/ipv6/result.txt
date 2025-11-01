@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 18:28:08,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-11-01 18:26:30,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -44,8 +44,8 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057
 湖北卫视,https://jzb.wwkejishe.top/?id=604
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
+黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
 安徽卫视,https://jzb.wwkejishe.top/?id=612
 重庆卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010053
@@ -54,9 +54,7 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 东方卫视,https://jzb.wwkejishe.top/?id=597
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010098
-甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://jzb.wwkejishe.top/?id=622
 广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
@@ -91,6 +89,6 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
-新疆卫视,http://cc02.tv12.xyz/10.m3u8
 新疆卫视,https://jzb.wwkejishe.top/?id=623
+新疆卫视,http://cc02.tv12.xyz/10.m3u8
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
